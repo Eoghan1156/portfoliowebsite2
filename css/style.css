@@ -1,0 +1,127 @@
+html
+
+body {font-family: 'Oxygen', sans-serif;
+    background-color: #fff;
+}
+
+header {width: 100%; align-content: center;
+background-color: #fff;
+}
+.logo {display: grid; justify-content: center;}
+    
+
+h1 {color: #000000;}
+
+nav {  
+  justify-content: center;
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-gap: 10px;
+  background-color: #000000;
+  margin-top: 2%;
+  }
+
+.welcome {
+  text-align: center; 
+  background-color:#fff; 
+  padding: 10%;  
+  margin-top: 1.5%;
+    margin-bottom: 1.5%
+  }
+
+.work {
+  justify-content: center;
+  display: grid;
+  grid-template-columns: 24.375% 24.375% 24.375% 24.375%;
+  grid-gap: 5px;
+  color: #000000;
+  margin-top: 1.5%;
+  margin-bottom: 1.5%;
+background-color: #fff
+}
+.about-intro
+{justify-content: center;
+text-align:center;
+   margin-top: 10%%;
+  margin-bottom: 20%;
+    margin-left: -1%;
+    margin-right: -1%;
+    background-color:#fff
+    
+}     
+      
+
+.about{
+  width: auto;
+    text-align:center;
+  justify-content: center;
+  display: grid;
+  grid-template-columns: 30%,30%,30%;
+  grid-gap: 5px;
+  background-color: #000000;
+  color: #000000;
+  margin-top: 1.5%;
+  margin-bottom: 1.5%;
+    margin-left: -1%;
+    margin-right: -1%;
+    font-size: : 100%%
+}
+
+.contact {
+    justify-content: center;
+  display: grid;
+  grid-template-columns: 8% 8%;
+  grid-gap: 5px;
+  background-color: #000000;
+  color: #000000;
+  margin-top: 1%;
+    margin-left: -1%;
+    margin-right: -1%;
+}
+
+.box {
+  background-color: #000000;
+  color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 100%;
+    text-align: center
+}
+
+.email{
+    background-color: #000000;
+border-radius: 5px;
+  padding: 20px;
+  font-size: 100%;
+    text-align: center;
+    margin-top: 1%;
+    margin-left: -1%;
+    margin-right: -1%;
+}
+
+.box-nav {
+  color: #D3D3D3;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 150%;
+  text-align: center;
+}
+      
+.logo {
+    margin-top: 1%;
+    margin-bottom: -1%;
+    margin-left: auto;
+    margin-right: auto;
+}
+   
+h2 {
+  color: #000000;
+}
+
+h3 {
+    margin-top: 1%;
+}  
+a { 
+    text-decoration: none;
+    outline: none;
+}
